@@ -1,5 +1,6 @@
 {
   "name": "keeper-app-part-1-starting",
+  "homepage":"https://herogo3241.github.io/FirstReactapp",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -24,4 +25,5 @@
     "not ie <= 11",
     "not op_mini all"
   ]
+  
 }
